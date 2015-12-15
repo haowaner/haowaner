@@ -1,2 +1,0 @@
-# haowaner
-iOS app
